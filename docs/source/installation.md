@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.7.
+**practice** supports Python >= 3.7.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**practice** is available [on PyPI](https://pypi.org/project/practice/). Just run
 
 ```bash
-pip install my-package
+pip install practice
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **practice** from source, first clone [the repository](https://github.com/noahgill409/practice):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/noahgill409/practice.git
+cd practice
 ```
 
 Then run
